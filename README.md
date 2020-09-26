@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -39,11 +38,7 @@
     <li><a href="https://skawataki.github.io/research/">Research</a></li>
   
 </ul>
-    </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
-    <nav role="navigation" id="js-menu" class="sliding-menu-content">
-	
+  
   <h5>Saeko Kawataki<span></span></h5>
   <ul class="menu-item">
     <li>
