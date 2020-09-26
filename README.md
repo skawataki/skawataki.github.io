@@ -3,32 +3,14 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mizuki's Personal History • Saeko Kawataki</title>
+    <title>CV</title>
     <meta name="description" content="Who am I?">
     
     
-    	<!-- Twitter Cards -->
-	<meta name="twitter:title" content="Saeko's Personal History">
-	<meta name="twitter:description" content="Who am I?">
-	
-	
-	
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="https://skawataki.github.io/images/about.jpg">
-	
-	<!-- Open Graph -->
-	<meta property="og:locale" content="en">
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="Saeko's Personal History">
-	<meta property="og:description" content="Who am I?">
-	<meta property="og:url" content="https://skawataki.github.io/about/">
-	<meta property="og:site_name" content="Saeko Kawataki">
 
     <link rel="canonical" href="https://skawataki.github.io/about/">
 
-    <link href="https://skawataki.github.io/atom.xml" type="application/atom+xml" rel="alternate" title="Mizuki Ishida Atom Feed">
-    <link href="https://skawataki.github.io/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
-
+   
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,26 +26,24 @@
   </head>
 
   <body id="js-body">
-    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
-
-    <header id="masthead">
+   
   <div class="inner-wrap">
-    <a href="https://sunwillrise.github.io/" class="site-title">Mizuki Ishida</a>
+    <a href="https://skawataki.github.io/" class="site-title">Saeko Kawataki</a>
     <nav role="navigation" class="menu top-menu">
         <ul class="menu-item">
 	<li class="home"><a href="/">Saeko Kawataki</a></li>
 	
     
     <li><a href="https://skawataki.github.io/about/" >About</a></li>
-  
     
-    <li><a href="https://skawataki.github.io/research/" >Research</a></li>
+    <li><a href="https://skawataki.github.io/research/">Research</a></li>
   
 </ul>
     </nav>
   </div><!-- /.inner-wrap -->
 </header><!-- /.masthead -->
     <nav role="navigation" id="js-menu" class="sliding-menu-content">
+	
   <h5>Saeko Kawataki<span></span></h5>
   <ul class="menu-item">
     <li>
@@ -98,7 +78,7 @@
 		
 		<div class="page-feature">
 			<div class="page-image">
-				<img src="https://sunwillrise.github.io/images/about3.jpg" class="page-feature-image" alt="Saeko's Personal History" itemprop="image">
+				<img src="https://skawataki.github.io/images/about3.jpg" class="page-feature-image" alt="Saeko's Personal History" itemprop="image">
 				
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
@@ -115,8 +95,8 @@
 
 <h5 id="2015">2015</h5>
 <ul>
-  <li>Decided to major molecular biology in School of Science</li>
-    <li>Selected as a member of GLP-GEfIL</li>
+  <li>Decided to major molecular biology in (<a href="http://www.bs.s.u-tokyo.ac.jp/biochem/">Department of Biochemistry, School of Science</a>).</li>
+    <li>Selected as a member of  (<a href="https://www.glp.u-tokyo.ac.jp/en/">GLP-GEfIL</a>).</li>
   <li>Took courses on neuroscience and psychology in <em>UC Sand Diego</em>in summer.</li>
 </ul>
 
